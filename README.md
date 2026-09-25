@@ -14,9 +14,9 @@ My university capstone. I built the cross-platform Flutter client and collaborat
 
 A team-built storefront and AI product assistant. [My commits](https://github.com/BAITC-Hacks/hack-4cfe9779-k14/commits?author=Just-everyday-developer) include connecting the React storefront to FastAPI catalog and chat endpoints, integration work, tests, and documentation. The repository is an archived prototype; it is not the live ekt.kz chat or shopping cart.
 
-### [Language Tutor](https://github.com/Just-everyday-developer/Language-Tutor) · team Android app
+### [Social Media Platform](https://github.com/Just-everyday-developer/Social_Media_Platform) · Dart / Flutter
 
-An English learning and exam practice app built in Kotlin with a team. [My changes](https://github.com/Just-everyday-developer/Language-Tutor/commit/52ba4fc) integrated exam and test screens with navigation; I also worked on statistics and account UI.
+My main independent Dart/Flutter project: a social app MVP with post creation and editing, feed and profile screens, Firebase-backed authentication and posts, maps, news, and Russian/Kazakh/English localization. Reels, messaging, and notifications are still planned or in progress.
 
 ### [KMG-K website prototype](https://github.com/Just-everyday-developer/kmg-karachaganak-website) · Flutter Web
 
@@ -25,7 +25,7 @@ A web prototype exploring a new layout for the Karachaganak site. My commits add
 ## Tools I work with
 
 **Backend & data:** Go, REST APIs, PostgreSQL, Redis, Kafka, Docker  
-**Client & ML:** Dart / Flutter, Kotlin / Jetpack Compose, Python (Pandas, NumPy, scikit-learn, OpenCV), LLM integrations
+**Client & ML:** Dart / Flutter, Kotlin / Jetpack Compose, Python (core data science stack; scikit-learn, OpenCV), LLM integrations
 
 Outside public repositories, my internships included computer vision for equipment inspection and local LLM and backend work for internal workflows. In a case championship, I worked with a team on demand forecasting from historical spreadsheet data.
 
