@@ -1,8 +1,8 @@
-![A quiet terminal-style banner with Talgat's name and slow green code rain](terminal-banner.gif)
+![Animated green letters and numbers assemble the name Talgat Omyrkanov](matrix-name-banner.gif)
 
 # Talgat Omyrkanov
 
-Software engineer in Astana, Kazakhstan, working across backend, AI/ML, and cloud infrastructure. I build learning products and backend services with practical AI integrations. Software Engineering graduate from Astana IT University (2026).
+Software engineer in Astana, Kazakhstan, focused on AI/ML and data analytics. I build learning products and backend services with practical AI integrations. Software Engineering graduate from Astana IT University (2026, GPA 3.45/4.0).
 
 ## Selected work
 
@@ -14,21 +14,22 @@ My university capstone. I built the cross-platform Flutter client and collaborat
 
 A team-built storefront and AI product assistant. [My commits](https://github.com/BAITC-Hacks/hack-4cfe9779-k14/commits?author=Just-everyday-developer) include connecting the React storefront to FastAPI catalog and chat endpoints, integration work, tests, and documentation. The repository is an archived prototype; it is not the live ekt.kz chat or shopping cart.
 
-### [AI Orchestrator Service](https://github.com/Just-everyday-developer/AI-service) · Go backend prototype
+### [Language Tutor](https://github.com/Just-everyday-developer/Language-Tutor) · team Android app
 
-An MVP service that sends requests to Gemini, stores state in PostgreSQL, and publishes result events to Kafka via a transactional outbox. The repository also documents its current limits.
+An English learning and exam practice app built in Kotlin with a team. [My changes](https://github.com/Just-everyday-developer/Language-Tutor/commit/52ba4fc) integrated exam and test screens with navigation; I also worked on statistics and account UI.
 
-### [PageMask](https://github.com/Just-everyday-developer/PageMask-extension) · browser extension
+### [KMG-K website prototype](https://github.com/Just-everyday-developer/kmg-karachaganak-website) · Flutter Web
 
-Configurable text and color overlays for web pages that keep their position after a reload. I worked on the popup, editing flow, and extension structure.
+A web prototype exploring a new layout for the Karachaganak site. My commits added news and contact page flows, map integration, and responsive UI fixes. The repository is a prototype, not a claim of a deployed company website.
 
 ## Tools I work with
 
 **Backend & data:** Go, REST APIs, PostgreSQL, Redis, Kafka, Docker  
-**Client & ML:** Dart / Flutter, Python, OpenCV, scikit-learn, LLM integrations
+**Client & ML:** Dart / Flutter, Kotlin / Jetpack Compose, Python (Pandas, NumPy, scikit-learn, OpenCV), LLM integrations
 
-Outside public repositories, my internships included computer vision for equipment inspection and local LLM and backend work for internal workflows.
+Outside public repositories, my internships included computer vision for equipment inspection and local LLM and backend work for internal workflows. In a case championship, I worked with a team on demand forecasting from historical spreadsheet data.
 
 ## Contact
 
-Astana, Kazakhstan · [Email](mailto:tomyrkanov@gmail.com)
+Astana, Kazakhstan  
+[tomyrkanov@gmail.com](mailto:tomyrkanov@gmail.com) · [@just_usual_person](https://t.me/just_usual_person) · [+7 (771) 549 28 59](tel:+77715492859)
